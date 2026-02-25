@@ -1,12 +1,12 @@
 import React from "react";
 import "./services.css";
 
-import seoImg from "../assets/seo.png";
-import ppcImg from "../assets/ppc.png";
-import socialImg from "../assets/social.png";
-import emailImg from "../assets/email.png";
-import contentImg from "../assets/content.png";
-import analyticsImg from "../assets/analytics.png";
+import seoImg from "../assets/Seo.png";
+import ppcImg from "../assets/PPC.png";
+import socialImg from "../assets/Social.png";
+import emailImg from "../assets/Email.png";
+import contentImg from "../assets/Content.png";
+import analyticsImg from "../assets/Analytics.png";
 
 const services = [
   {
