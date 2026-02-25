@@ -1,0 +1,52 @@
+.case-section {
+  padding: 80px;
+}
+
+/* Header */
+.section-header {
+  margin-bottom: 40px;
+}
+
+.section-highlight {
+  background: #B9FF66;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.section-header p {
+  margin-top: 10px;
+  max-width: 600px;
+  font-size: 14px;
+  color: #555;
+}
+
+/* Container */
+.case-container {
+  background: #111;
+  border-radius: 30px;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.case-card {
+  color: #fff;
+  flex: 1;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.learn-link {
+  display: inline-block;
+  margin-top: 20px;
+  color: #B9FF66;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.divider {
+  width: 1px;
+  background: #333;
+}
